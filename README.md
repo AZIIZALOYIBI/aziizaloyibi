@@ -1,1430 +1,817 @@
-<!--
-████████████████████████████████████████████████████████████████████████████████
-█    AZIZ AL-OTAIBI · THE ATELIER · CLAUDE CODE EDITION · v6.3                █
-█    Claude Palette: D97757 · C15F3C · CC785C · D4A27F · F4F3EE · 141413      █
-████████████████████████████████████████████████████████████████████████████████
--->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗
+     ║  AZIZ AL-OTAIBI · README v7.0 · AURORA EDITION                           ║
+     ║  Palette: Ember #D97757 · Crail #C15F3C · Book Cloth #CC785C             ║
+     ║           Kraft #D4A27F · Manilla #F4F3EE · Anthropic Ink #141413        ║
+     ║  Typography: JetBrains Mono · Crimson Pro · IBM Plex Sans Arabic         ║
+     ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ══════════════════════════ HERO ══════════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ AURORA HERO ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:141413,15:2E1608,35:5C2F1F,55:8B4A2F,75:C15F3C,90:D97757,100:D4A27F&height=340&section=header&text=AZIZ%20AL-OTAIBI&fontSize=78&fontColor=F4F3EE&animation=fadeIn&fontAlignY=36&desc=%E2%97%86%20Innovator%20%C2%B7%20Developer%20%C2%B7%20Systems%20Architect%20%C2%B7%20AI%20Builder%20%E2%97%86&descSize=16&descAlignY=58)
 
-<!-- Banner with Claude orange gradient -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141413,30:5C2F1F,55:C15F3C,80:D97757,100:D4A27F&height=320&section=header&text=AZIZ%20AL-OTAIBI&fontSize=70&fontColor=F4F3EE&fontAlignY=38&desc=Innovator%20%26%20Developer%20·%20Systems%20Architect%20·%20AI%20Builder&descAlignY=62&descSize=15&descColor=F4F3EE&animation=fadeIn)
-
-<br/>
-
-<!-- Editorial title card as IMAGE (so colors actually render) -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=D97757&center=true&vCenter=true&width=900&height=60&lines=AZIZ++AL-OTAIBI++·++ATELIER" alt="atelier title" />
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/ISSUE_No.-001-D97757?style=for-the-badge&labelColor=141413" alt="issue" />
-&thinsp;
-<img src="https://img.shields.io/badge/VOL.-v6.3-C15F3C?style=for-the-badge&labelColor=141413" alt="vol" />
-&thinsp;
-<img src="https://img.shields.io/badge/SINCE-2019-CC785C?style=for-the-badge&labelColor=141413" alt="since" />
-&thinsp;
-<img src="https://img.shields.io/badge/RIYADH-🇸🇦_KSA-D4A27F?style=for-the-badge&labelColor=141413" alt="location" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=600&color=D97757&center=true&vCenter=true&width=900&height=40&lines=PRINCIPAL++INNOVATOR++%26++DEVELOPER" alt="title 1" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=600&color=C15F3C&center=true&vCenter=true&width=900&height=36&lines=SYSTEMS++ARCHITECT++·++AI++BUILDER" alt="title 2" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+Arabic&weight=600&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=900&height=44&lines=✦+مُـبـتـكـر+·+مُـبـرمـج+·+صـانـع+✦" alt="arabic" />
-
-<br/>
-
-<!-- Quote card as a single styled image-badge -->
-
-<table align="center">
-<tr>
-<td align="center" width="700">
-
-> ### ❝
-> **I build software the way calligraphers build letters —**
-> **with patience, with intention, and with the long view.**
-> ### ❞
->
-> — A.A.O
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Role marquee -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=D97757&center=true&vCenter=true&multiline=true&width=950&height=130&lines=Principal+Innovator+%26+Developer+·+Systems+Architect;AI%2FML+Pipeline+Builder+·+LLM+Orchestration;Cloud-Native+Infrastructure+·+SRE+Mindset;Arabic+NLP+Researcher+·+Builder+in+Public" alt="role marquee" />
-
-<br/>
-
-<!-- Status badges -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ GEOMETRIC ORNAMENT ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <p align="center">
-<img src="https://img.shields.io/badge/✦_OPEN_TO_WORK-D97757?style=for-the-badge&labelColor=141413" alt="open" />
-&thinsp;
-<img src="https://img.shields.io/badge/◇_CONSULTING-C15F3C?style=for-the-badge&labelColor=141413" alt="consulting" />
-&thinsp;
-<img src="https://img.shields.io/badge/◈_SPEAKING-CC785C?style=for-the-badge&labelColor=141413" alt="speaking" />
-&thinsp;
-<img src="https://img.shields.io/badge/RIYADH_🇸🇦_UTC%2B3-D4A27F?style=for-the-badge&labelColor=141413" alt="location" />
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96%E2%80%83%E2%97%87%E2%80%83%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
 </p>
 
-<!-- Social row -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ TYPING MARQUEE ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=F4F3EE&labelColor=141413" alt="linkedin" /></a>
-&thinsp;
-<a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X-141413?style=flat-square&logo=x&logoColor=F4F3EE&labelColor=141413" alt="x" /></a>
-&thinsp;
-<a href="https://github.com/AZIIZALOYIBI"><img src="https://img.shields.io/badge/GitHub-141413?style=flat-square&logo=github&logoColor=F4F3EE&labelColor=141413" alt="github" /></a>
-&thinsp;
-<a href="mailto:alotaibiaziz322@gmail.com"><img src="https://img.shields.io/badge/Email-D97757?style=flat-square&logo=gmail&logoColor=F4F3EE&labelColor=141413" alt="email" /></a>
-&thinsp;
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-C15F3C?style=flat-square&logo=safari&logoColor=F4F3EE&labelColor=141413" alt="portfolio" /></a>
-&thinsp;
-<a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Writing-141413?style=flat-square&logo=medium&logoColor=F4F3EE&labelColor=141413" alt="writing" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=D97757&center=true&vCenter=true&multiline=false&width=820&lines=%E2%97%86%20Principal%20Innovator%20%26%20Developer%20%E2%97%86;%E2%9D%96%20Distributed%20Systems%20Architect%20%E2%9D%96;%E2%97%87%20AI%20%2F%20ML%20Pipeline%20Builder%20%E2%97%87;%E2%9C%A6%20Cloud-Native%20Infrastructure%20%E2%9C%A6;%E2%9C%A7%20Arabic%20NLP%20Researcher%20%E2%9C%A7;%E2%9C%B6%20Builder%20in%20Public%20%E2%9C%B6" alt="typing"/>
+</p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ PALETTE GRADIENT STRIP ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-141413?style=flat-square&color=141413" height="6" width="96"/><img src="https://img.shields.io/badge/-2E1608?style=flat-square&color=2E1608" height="6" width="96"/><img src="https://img.shields.io/badge/-5C2F1F?style=flat-square&color=5C2F1F" height="6" width="96"/><img src="https://img.shields.io/badge/-8B4A2F?style=flat-square&color=8B4A2F" height="6" width="96"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="6" width="96"/><img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="6" width="96"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="6" width="96"/><img src="https://img.shields.io/badge/-D4A27F?style=flat-square&color=D4A27F" height="6" width="96"/><img src="https://img.shields.io/badge/-F4F3EE?style=flat-square&color=F4F3EE" height="6" width="96"/>
+</p>
+
+<p align="center">
+  <sub><i>◆ Aurora Palette ◆ Anthropic Ink → Ember Glow → Manilla Light ◆</i></sub>
 </p>
 
 <br/>
 
-<!-- ✦ CLAUDE PALETTE STRIP — using real colored badges ✦ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ STATUS CONSTELLATION ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/-_-D97757?style=flat-square" height="22" width="90" alt="Claude Orange" /></td>
-<td align="center"><img src="https://img.shields.io/badge/-_-C15F3C?style=flat-square" height="22" width="90" alt="Crail" /></td>
-<td align="center"><img src="https://img.shields.io/badge/-_-CC785C?style=flat-square" height="22" width="90" alt="Book Cloth" /></td>
-<td align="center"><img src="https://img.shields.io/badge/-_-D4A27F?style=flat-square" height="22" width="90" alt="Kraft" /></td>
-<td align="center"><img src="https://img.shields.io/badge/-_-F4F3EE?style=flat-square" height="22" width="90" alt="Manilla" /></td>
-<td align="center"><img src="https://img.shields.io/badge/-_-B1ADA1?style=flat-square" height="22" width="90" alt="Cloudy" /></td>
-<td align="center"><img src="https://img.shields.io/badge/-_-141413?style=flat-square" height="22" width="90" alt="Ink" /></td>
-</tr>
-<tr>
-<td align="center"><sub>D97757</sub></td>
-<td align="center"><sub>C15F3C</sub></td>
-<td align="center"><sub>CC785C</sub></td>
-<td align="center"><sub>D4A27F</sub></td>
-<td align="center"><sub>F4F3EE</sub></td>
-<td align="center"><sub>B1ADA1</sub></td>
-<td align="center"><sub>141413</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%86%20OPEN%20TO%20WORK-D97757?style=for-the-badge&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/%E2%97%87%20CONSULTING-C15F3C?style=for-the-badge&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20SPEAKING-CC785C?style=for-the-badge&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A7%20MENTORING-D4A27F?style=for-the-badge&labelColor=141413"/>
+</p>
 
-<sub>✦ &nbsp; *Claude Official Palette · warmth · clarity · editorial calm* &nbsp; ✦</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Riyadh%20%C2%B7%20Saudi%20Arabia-141413?style=for-the-badge&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/%E2%8C%9A%20UTC%2B3-141413?style=for-the-badge&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%99%20Available%20Globally-141413?style=for-the-badge&labelColor=141413"/>
+</p>
 
-</div>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ SOCIAL ORBIT ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-D97757?style=for-the-badge&logo=linkedin&logoColor=F4F3EE&labelColor=141413"/></a>
+  <a href="https://x.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X%20%2F%20TWITTER-141413?style=for-the-badge&logo=x&logoColor=D97757&labelColor=141413"/></a>
+  <a href="https://github.com/AZIIZALOYIBI"><img src="https://img.shields.io/badge/GITHUB-141413?style=for-the-badge&logo=github&logoColor=D97757&labelColor=141413"/></a>
+  <a href="mailto:alotaibiaziz322@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C15F3C?style=for-the-badge&logo=gmail&logoColor=F4F3EE&labelColor=141413"/></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/PORTFOLIO-CC785C?style=for-the-badge&logo=safari&logoColor=F4F3EE&labelColor=141413"/></a>
+  <a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/MEDIUM-D4A27F?style=for-the-badge&logo=medium&logoColor=141413&labelColor=141413"/></a>
+</p>
 
-<!-- ══════════════════════ TABLE OF CONTENTS ══════════════════════ -->
-
-<div align="center">
-
-## ✦ &nbsp; Table of Contents &nbsp; · &nbsp; فـهـرس
-
-<table align="center">
-<tr>
-<td align="left">
-
-| № | Section | بالعربية |
-|:---:|:---|:---|
-| **I**    | Prologue           | مُـقـدِّمـة |
-| **II**   | The Atelier        | المُـحْـتَـرَف |
-| **III**  | The Arsenal       | الـعُـدَّة |
-| **IV**   | The Catalogue     | المـشـاريـع |
-| **V**    | Philosophy         | الفلسـفـة |
-| **VI**   | Trajectory         | المـسـار |
-| **VII**  | Analytics          | البيـانـات |
-| **VIII** | Open Source        | المفـتـوح |
-| **IX**   | Writing & Speaking | الـحُـضـور |
-| **X**    | Verify             | التحـقُّـق |
-| **XI**   | Let's Build        | الـخـتـام |
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AZIIZALOYIBI&style=for-the-badge&color=D97757&label=PROFILE+VISITORS&labelColor=141413"/>
+  <img src="https://img.shields.io/github/followers/AZIIZALOYIBI?style=for-the-badge&color=C15F3C&labelColor=141413&logo=github&logoColor=F4F3EE&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/AZIIZALOYIBI?style=for-the-badge&color=CC785C&labelColor=141413&logo=github&logoColor=F4F3EE&label=STARS"/>
+</p>
 
 <br/>
 
-<!-- ═══════════════════════ I · PROLOGUE ═══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ ❖ AURORA QUOTE ❖ ━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=I.++PROLOGUE++·++مُـقَـدِّمـة" alt="section I" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&italic=true&weight=500&size=22&duration=8000&pause=2000&color=D4A27F&center=true&vCenter=true&width=780&lines=%E2%80%9C%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20architect%20it.%20%E2%80%9D;%E2%80%9C%20We%20fall%20to%20the%20level%20of%20our%20systems.%20%E2%80%9D;%E2%80%9C%20Simplicity%20is%20the%20ultimate%20sophistication.%20%E2%80%9D" alt="quotes"/>
+</p>
 
 <br/>
 
-<table align="center">
-<tr>
-<td valign="top" align="center">
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § I  ·  PROLOGUE                              ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=460&lines=%C2%A7%20I%20%C2%B7%20PROLOGUE" alt="s1"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+<br/>
 
 ```typescript
-// ╭─ aziz.identity.ts ─────────────────────────────╮
-// │  loaded · v6.3 · all systems nominal           │
-// ╰────────────────────────────────────────────────╯
+// aziz.identity.ts  ·  v7.0
+interface Innovator {
+  readonly soul:      "Builder";
+  readonly compass:   "Truth × Craft × Impact";
+  readonly horizon:   "Infinite";
+}
 
-const AZIZ_ALOTAIBI = {
-
-  // ─── Identity ─────────────────────────────────
-  name      : "Aziz Al-Otaibi · عزيز العتيبي",
-  title     : "Principal Innovator & Developer",
-  subtitle  : "Systems Architect · AI Builder",
-  location  : "Riyadh, Saudi Arabia 🇸🇦",
-  contact   : "alotaibiaziz322@gmail.com",
-
-  // ─── Craft ────────────────────────────────────
+const AZIZ: Innovator & Profile = {
+  // ─── Identity ─────────────────────────────────────
+  name:         "Aziz Al-Otaibi  ·  عزيز العتيبي",
+  title:        "Principal Innovator & Developer",
+  subtitle:     "Systems Architect · AI Builder · Arabic NLP",
+  
+  // ─── Coordinates ──────────────────────────────────
+  location:     "Riyadh, Saudi Arabia 🇸🇦",
+  timezone:     "UTC+3",
+  contact:      "alotaibiaziz322@gmail.com",
+  
+  // ─── Compass ──────────────────────────────────────
   focus: [
-    "Distributed Systems at scale",
-    "AI / ML development",
-    "Cloud-native infrastructure",
-    "Arabic NLP research",
+    "◆ Distributed Systems        // multi-region · event-sourced",
+    "◇ AI / ML Engineering        // orchestration · RAG · agents",
+    "◈ Cloud-Native Infra         // GitOps · zero-trust · SRE",
+    "✦ Arabic NLP Research        // dialect-aware · culturally rooted"
   ],
-
-  // ─── Compass ──────────────────────────────────
-  philosophy : "Simplicity at scale.",
-  belief     : "Build to evolve.",
-  superpower : "Turning complexity → clarity.",
-  status     : "Open to elite opportunities",
-
+  
+  // ─── Codex ────────────────────────────────────────
+  philosophy: [
+    "Simplicity at scale",
+    "Fail fast · Recover faster",
+    "Observability first",
+    "Data-driven decisions",
+    "Security by default",
+    "API-first contracts",
+    "Immutable infrastructure",
+    "Progressive delivery"
+  ],
+  
+  soul:    "Builder",
+  compass: "Truth × Craft × Impact",
+  horizon: "Infinite",
+  
+  status:  "◆ Open to elite opportunities ◆"
 } as const;
-
-// ✓ identity hydrated · ready to ship
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<table align="center" width="78%">
-<tr>
-<td align="center">
-
-> ### ✦ &nbsp; عربيّـة
->
-> أبني أنظمةً موزّعةً عالية الإنتاجية تخدم ملايين الطلبات بثبات،
-> وأُطوِّر خطوط أنابيب ذكاء اصطناعي جاهزة للإنتاج بعائد قابل
-> للقياس، وأقود فِرَقاً تشحن بنيةً سحابيةً صامدة —
-> تُبنى لتتطوّر، لا لتُستبدل.
-
-> ### ✦ &nbsp; English
->
-> I architect production-grade distributed systems, build measurable
-> AI/ML pipelines, and lead teams that ship resilient cloud-native
-> infrastructure — designed to evolve, not to be replaced.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ✦ &nbsp; Currently in the workshop
-
-</div>
-
-```
-  ◇  Quantum SuperSystem  v3      ████████░░  80%   on track
-  ◇  Arabic LLM Fine-Tune          ██████░░░░  60%   exploring
-  ◇  WebAssembly Performance       ████░░░░░░  45%   experimenting
-  ◇  Systems Writing Series        ███████░░░  70%   shipping weekly
-
-  ───────────────────────────────────────────────────────────────
-   focus  ◆  deep work     rhythm  ◆  builder    energy  ◆  high
 ```
 
 <br/>
 
-<!-- ═══════════════════════ II · ATELIER ═══════════════════════ -->
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § II  ·  THE ATELIER                          ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%87%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=560&lines=%C2%A7%20II%20%C2%B7%20THE%20ATELIER" alt="s2"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%87%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=II.++THE++ATELIER++·++المُـحْـتَـرَف" alt="section II" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-> *A workshop has three rooms. In mine, they share the same door.*
+<p align="center">
+  <i>Three rooms · One craft · A lifetime of refinement</i>
+</p>
 
 <br/>
 
-<table align="center">
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#D97757','primaryTextColor':'#F4F3EE','primaryBorderColor':'#D97757','lineColor':'#CC785C','secondaryColor':'#C15F3C','tertiaryColor':'#141413','background':'#141413','mainBkg':'#2E1608','secondBkg':'#5C2F1F','tertiaryBkg':'#8B4A2F'}}}%%
+graph TB
+    A[◆ AZIZ AL-OTAIBI<br/>The Atelier]:::core
+    A --> S[I · SYSTEMS<br/>Distributed Cores]:::sys
+    A --> I[II · INTELLIGENCE<br/>LLM Orchestration]:::intel
+    A --> L[III · LANGUAGE<br/>Arabic NLP]:::lang
+    
+    S --> S1[Event-Driven Mesh]:::leaf
+    S --> S2[Zero-Trust Fabric]:::leaf
+    S --> S3[GitOps Delivery]:::leaf
+    
+    I --> I1[Cost-Aware Routing]:::leaf
+    I --> I2[RAG Pipelines]:::leaf
+    I --> I3[Agent Mesh]:::leaf
+    
+    L --> L1[Dialect Detection]:::leaf
+    L --> L2[Diacritization]:::leaf
+    L --> L3[NER & ABSA]:::leaf
+    
+    classDef core fill:#D97757,stroke:#F4F3EE,stroke-width:3px,color:#141413
+    classDef sys fill:#C15F3C,stroke:#D97757,stroke-width:2px,color:#F4F3EE
+    classDef intel fill:#CC785C,stroke:#D97757,stroke-width:2px,color:#F4F3EE
+    classDef lang fill:#D4A27F,stroke:#D97757,stroke-width:2px,color:#141413
+    classDef leaf fill:#2E1608,stroke:#CC785C,stroke-width:1px,color:#F4F3EE
+```
+
+<br/>
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/%E2%97%86%20ROOM%20I-D97757?style=for-the-badge&labelColor=141413"/><br/>**SYSTEMS** | <img src="https://img.shields.io/badge/%E2%97%87%20ROOM%20II-C15F3C?style=for-the-badge&labelColor=141413"/><br/>**INTELLIGENCE** | <img src="https://img.shields.io/badge/%E2%97%88%20ROOM%20III-CC785C?style=for-the-badge&labelColor=141413"/><br/>**LANGUAGE** |
+|:---:|:---:|:---:|
+| Distributed Cores | LLM Orchestration | Dialect Detection |
+| Event-Driven Mesh | RAG Pipelines | Diacritization |
+| Zero-Trust Fabric | Cost-Aware Routing | NER & ABSA |
+| GitOps Delivery | Agent Mesh | Topic Evolution |
+| 4-Region Active-Active | Semantic Caching | Gulf · Levantine · Maghrebi |
+| `99.99 % uptime` | `94.7 % accuracy` | `96.2 % dialect ID` |
+
+</div>
+
+<br/>
+
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § III  ·  ARSENAL                             ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%88%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=460&lines=%C2%A7%20III%20%C2%B7%20ARSENAL" alt="s3"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%88%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+<details open>
+<summary align="center"><b>◆ LANGUAGES · لغات البرمجة ◆</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-D97757?style=for-the-badge&logo=typescript&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Python-C15F3C?style=for-the-badge&logo=python&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Go-CC785C?style=for-the-badge&logo=go&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Rust-D4A27F?style=for-the-badge&logo=rust&logoColor=141413&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Java-D97757?style=for-the-badge&logo=openjdk&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-C15F3C?style=for-the-badge&logo=cplusplus&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Bash-CC785C?style=for-the-badge&logo=gnubash&logoColor=F4F3EE&labelColor=141413"/>
+</p>
+</details>
+
+<details open>
+<summary align="center"><b>◇ FRONTEND · واجهات المستخدم ◇</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-D97757?style=for-the-badge&logo=react&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Next.js-C15F3C?style=for-the-badge&logo=nextdotjs&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/WebAssembly-CC785C?style=for-the-badge&logo=webassembly&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Three.js-D4A27F?style=for-the-badge&logo=threedotjs&logoColor=141413&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Tailwind-D97757?style=for-the-badge&logo=tailwindcss&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-C15F3C?style=for-the-badge&logo=framer&logoColor=F4F3EE&labelColor=141413"/>
+</p>
+</details>
+
+<details open>
+<summary align="center"><b>◈ BACKEND & APIs · الخوادم والواجهات ◈</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-D97757?style=for-the-badge&logo=fastapi&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/NestJS-C15F3C?style=for-the-badge&logo=nestjs&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/gRPC-CC785C?style=for-the-badge&logo=google&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/GraphQL-D4A27F?style=for-the-badge&logo=graphql&logoColor=141413&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Spring-D97757?style=for-the-badge&logo=spring&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/.NET-C15F3C?style=for-the-badge&logo=dotnet&logoColor=F4F3EE&labelColor=141413"/>
+</p>
+</details>
+
+<details open>
+<summary align="center"><b>✦ DATA & STREAMING · البيانات والتدفّق ✦</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-D97757?style=for-the-badge&logo=postgresql&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/ClickHouse-C15F3C?style=for-the-badge&logo=clickhouse&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Redis-CC785C?style=for-the-badge&logo=redis&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Kafka-D4A27F?style=for-the-badge&logo=apachekafka&logoColor=141413&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Flink-D97757?style=for-the-badge&logo=apacheflink&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Airflow-C15F3C?style=for-the-badge&logo=apacheairflow&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-CC785C?style=for-the-badge&logo=elasticsearch&logoColor=F4F3EE&labelColor=141413"/>
+</p>
+</details>
+
+<details open>
+<summary align="center"><b>✧ CLOUD & SRE · السحابة والموثوقيّة ✧</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-D97757?style=for-the-badge&logo=amazonaws&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Kubernetes-C15F3C?style=for-the-badge&logo=kubernetes&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Istio-CC785C?style=for-the-badge&logo=istio&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/ArgoCD-D4A27F?style=for-the-badge&logo=argo&logoColor=141413&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Terraform-D97757?style=for-the-badge&logo=terraform&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Prometheus-C15F3C?style=for-the-badge&logo=prometheus&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Grafana-CC785C?style=for-the-badge&logo=grafana&logoColor=F4F3EE&labelColor=141413"/>
+</p>
+</details>
+
+<details open>
+<summary align="center"><b>✶ AI / ML · الذكاء الاصطناعي ✶</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-D97757?style=for-the-badge&logo=pytorch&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/HuggingFace-C15F3C?style=for-the-badge&logo=huggingface&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/LangChain-CC785C?style=for-the-badge&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/LangGraph-D4A27F?style=for-the-badge&logoColor=141413&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/OpenAI-D97757?style=for-the-badge&logo=openai&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Claude-C15F3C?style=for-the-badge&logo=anthropic&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Qdrant-CC785C?style=for-the-badge&logoColor=F4F3EE&labelColor=141413"/>
+</p>
+</details>
+
+<br/>
+
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § IV  ·  CATALOGUE                            ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=540&lines=%C2%A7%20IV%20%C2%B7%20CATALOGUE" alt="s4"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+<p align="center">
+  <i>Four flagships · Each a study in craft</i>
+</p>
+
+<br/>
+
+<!-- ─── PROJECT 01 ─── -->
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
-
-### ✦ &nbsp; Room I
-
-<img src="https://img.shields.io/badge/SYSTEMS-D97757?style=for-the-badge&labelColor=141413" alt="Room I" />
-
-**الأنظـمـة الموزّعة**
-
----
-
-◇ &nbsp; Distributed cores
-◇ &nbsp; Event-driven flows
-◇ &nbsp; Multi-region design
-◇ &nbsp; Zero-trust meshes
-◇ &nbsp; GitOps delivery
-
----
-
-*the backbone room*
-
-</td>
-<td align="center" width="34%">
-
-### ✦ &nbsp; Room II
-
-<img src="https://img.shields.io/badge/INTELLIGENCE-C15F3C?style=for-the-badge&labelColor=141413" alt="Room II" />
-
-**الـذكـاء الصـنـاعـي**
-
----
-
-◇ &nbsp; LLM orchestration
-◇ &nbsp; RAG pipelines
-◇ &nbsp; Semantic caching
-◇ &nbsp; Cost-aware routing
-◇ &nbsp; Fine-tuning loops
-
----
-
-*model-meets-world*
-
-</td>
-<td align="center" width="33%">
-
-### ✦ &nbsp; Room III
-
-<img src="https://img.shields.io/badge/LANGUAGE-CC785C?style=for-the-badge&labelColor=141413" alt="Room III" />
-
-**الـلُّـغـة الـعـربـيّـة**
-
----
-
-◇ &nbsp; Dialect detection
-◇ &nbsp; Diacritization
-◇ &nbsp; Arabic NER
-◇ &nbsp; Sentiment (ABSA)
-◇ &nbsp; Topic evolution
-
----
-
-*Arabic-first room*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<sub>✦ &nbsp; *built once · refined daily* &nbsp; ✦</sub>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ III · ARSENAL ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=III.++THE++ARSENAL++·++الـعُـدَّة" alt="section III" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=C15F3C&center=true&vCenter=true&width=900&lines=polyglot+by+habit+·+pragmatic+by+training+·+production-first+by+choice" alt="arsenal sub" />
-
-<br/>
-
-> *A craftsman doesn't collect tools.*
-> *A craftsman keeps the few that finish the work.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,py,go,rust,java,cpp,bash,nodejs&perline=8" alt="languages" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,threejs,wasm&perline=8" alt="frontend" /><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,graphql,django,flask,spring,dotnet&perline=8" alt="backend" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch,cassandra,firebase,supabase&perline=8" alt="data" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,linux&perline=8" alt="cloud" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,grafana,prometheus,nginx,git,github&perline=8" alt="ml" />
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" align="center" width="50%">
-
-### ✦ &nbsp; Languages
-
-<sub>*chosen by problem, not habit*</sub>
+<td width="50%" valign="top">
 
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=F4F3EE&labelColor=141413" alt="ts" />
-<img src="https://img.shields.io/badge/Python-D97757?style=flat-square&logo=python&logoColor=F4F3EE&labelColor=141413" alt="py" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=F4F3EE&labelColor=141413" alt="go" />
-<img src="https://img.shields.io/badge/Rust-D4A27F?style=flat-square&logo=rust&logoColor=141413&labelColor=141413" alt="rs" />
-<img src="https://img.shields.io/badge/Java-C15F3C?style=flat-square&logo=openjdk&logoColor=F4F3EE&labelColor=141413" alt="java" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=F4F3EE&labelColor=141413" alt="cpp" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=F4F3EE&labelColor=141413" alt="bash" />
+  <img src="https://img.shields.io/badge/%E2%97%86%20FLAGSHIP%20%2301-D97757?style=for-the-badge&labelColor=141413"/>
 </p>
 
-<br/>
-
-### ✦ &nbsp; Frontend
-
-<sub>*honest · fast · Arabic-aware*</sub>
+### Quantum SuperSystem · v3.0
 
 <p align="center">
-<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=141413&labelColor=141413" alt="react" />
-<img src="https://img.shields.io/badge/Next.js_14-F4F3EE?style=flat-square&logo=nextdotjs&logoColor=141413&labelColor=141413" alt="next" />
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=F4F3EE&labelColor=141413" alt="wasm" />
-<img src="https://img.shields.io/badge/Three.js-D97757?style=flat-square&logo=threedotjs&logoColor=F4F3EE&labelColor=141413" alt="three" />
-<img src="https://img.shields.io/badge/Framer_Motion-CC785C?style=flat-square&logo=framer&logoColor=F4F3EE&labelColor=141413" alt="framer" />
+  <img src="https://img.shields.io/badge/Multi--Region-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Active--Active-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Event--Sourced-CC785C?style=flat-square&labelColor=141413"/>
 </p>
 
-<br/>
-
-### ✦ &nbsp; Backend & APIs
-
-<sub>*contracts before code*</sub>
+A 4-region active-active platform combining CQRS, Event Sourcing, and an Istio zero-trust mesh, delivered via ArgoCD GitOps. Engineered for graceful degradation, never heroics.
 
 <p align="center">
-<img src="https://img.shields.io/badge/gRPC-D97757?style=flat-square&logoColor=F4F3EE&labelColor=141413" alt="grpc" />
-<img src="https://img.shields.io/badge/GraphQL_Fed-E10098?style=flat-square&logo=graphql&logoColor=F4F3EE&labelColor=141413" alt="gql" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=F4F3EE&labelColor=141413" alt="rest" />
-<img src="https://img.shields.io/badge/WebSockets-C15F3C?style=flat-square&logo=socket.io&logoColor=F4F3EE&labelColor=141413" alt="ws" />
-<img src="https://img.shields.io/badge/Protobuf-D4A27F?style=flat-square&logoColor=141413&labelColor=141413" alt="proto" />
+  <img src="https://img.shields.io/badge/99.99%25%20uptime-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/P99%20%3C%2010ms-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/10M%2B%20RPS-CC785C?style=flat-square&labelColor=141413"/>
 </p>
 
 </td>
-<td valign="top" align="center" width="50%">
-
-### ✦ &nbsp; Data & Streams
-
-<sub>*where production bugs live*</sub>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Kafka-D97757?style=flat-square&logo=apachekafka&logoColor=F4F3EE&labelColor=141413" alt="kafka" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=F4F3EE&labelColor=141413" alt="rabbit" />
-<img src="https://img.shields.io/badge/Flink-CC785C?style=flat-square&logo=apacheflink&logoColor=F4F3EE&labelColor=141413" alt="flink" />
-<img src="https://img.shields.io/badge/ClickHouse-D4A27F?style=flat-square&logo=clickhouse&logoColor=141413&labelColor=141413" alt="ch" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=F4F3EE&labelColor=141413" alt="af" />
-<img src="https://img.shields.io/badge/dbt-D97757?style=flat-square&logo=dbt&logoColor=F4F3EE&labelColor=141413" alt="dbt" />
-</p>
-
-<br/>
-
-### ✦ &nbsp; Cloud · DevOps
-
-<sub>*infra that explains itself*</sub>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=F4F3EE&labelColor=141413" alt="istio" />
-<img src="https://img.shields.io/badge/ArgoCD-D97757?style=flat-square&logo=argo&logoColor=F4F3EE&labelColor=141413" alt="argo" />
-<img src="https://img.shields.io/badge/Helm-C15F3C?style=flat-square&logo=helm&logoColor=F4F3EE&labelColor=141413" alt="helm" />
-<img src="https://img.shields.io/badge/Vault-D4A27F?style=flat-square&logo=vault&logoColor=141413&labelColor=141413" alt="vault" />
-<img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=F4F3EE&labelColor=141413" alt="pulumi" />
-<img src="https://img.shields.io/badge/Prometheus-D97757?style=flat-square&logo=prometheus&logoColor=F4F3EE&labelColor=141413" alt="prom" />
-<img src="https://img.shields.io/badge/Grafana-CC785C?style=flat-square&logo=grafana&logoColor=F4F3EE&labelColor=141413" alt="graf" />
-<img src="https://img.shields.io/badge/OpenTelemetry-F4F3EE?style=flat-square&logo=opentelemetry&logoColor=141413&labelColor=141413" alt="otel" />
-</p>
-
-<br/>
-
-### ✦ &nbsp; AI · ML · LLMs
-
-<sub>*models are tools; systems ship*</sub>
-
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=F4F3EE&labelColor=141413" alt="gpt" />
-<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=F4F3EE&labelColor=141413" alt="claude" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=F4F3EE&labelColor=141413" alt="gemini" />
-<img src="https://img.shields.io/badge/Llama_3-C15F3C?style=flat-square&logo=meta&logoColor=F4F3EE&labelColor=141413" alt="llama" />
-<img src="https://img.shields.io/badge/HuggingFace-D4A27F?style=flat-square&logo=huggingface&logoColor=141413&labelColor=141413" alt="hf" />
-<img src="https://img.shields.io/badge/LangChain-D97757?style=flat-square&logo=chainlink&logoColor=F4F3EE&labelColor=141413" alt="lc" />
-<img src="https://img.shields.io/badge/LangGraph-CC785C?style=flat-square&logo=chainlink&logoColor=F4F3EE&labelColor=141413" alt="lg" />
-<img src="https://img.shields.io/badge/Pinecone-F4F3EE?style=flat-square&logoColor=141413&labelColor=141413" alt="pine" />
-<img src="https://img.shields.io/badge/Qdrant-D97757?style=flat-square&logoColor=F4F3EE&labelColor=141413" alt="qd" />
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ IV · CATALOGUE ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=IV.++THE++CATALOGUE++·++المـشـاريـع" alt="section IV" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-> ### ✦ &nbsp; Four Works in the Catalogue
->
-> **i. &nbsp; Quantum SuperSystem** &nbsp; — &nbsp; the backbone
-> **ii. &nbsp; Neural Orchestrator** &nbsp; — &nbsp; the conductor
-> **iii. &nbsp; Cars Square** &nbsp; — &nbsp; the marketplace
-> **iv. &nbsp; ArabicMind** &nbsp; — &nbsp; the linguist
->
-> *every entry has a story · every line has a why*
-
-</div>
-
-<br/>
-
-<!-- ────────────  WORK i  ──────────── -->
-
-<div align="center">
-
-### `WORK · i` &nbsp;&nbsp;·&nbsp;&nbsp; **Quantum SuperSystem** &nbsp;`v3.0`
-
-<img src="https://img.shields.io/badge/CATALOGUE-01-D97757?style=for-the-badge&labelColor=141413" alt="cat 01" />
-&thinsp;
-<img src="https://img.shields.io/badge/Multi--Region-C15F3C?style=for-the-badge&labelColor=141413" alt="multi-region" />
-&thinsp;
-<img src="https://img.shields.io/badge/Event--Driven-CC785C?style=for-the-badge&labelColor=141413" alt="event" />
-&thinsp;
-<img src="https://img.shields.io/badge/Zero--Trust-D4A27F?style=for-the-badge&labelColor=141413" alt="zero-trust" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" align="center" width="32%">
-
-#### ✦ &nbsp; Design Pillars
-
-◇ &nbsp; Multi-region
-◇ &nbsp; Active-Active
-◇ &nbsp; CQRS
-◇ &nbsp; Event Sourcing
-◇ &nbsp; Zero-Trust Mesh
-◇ &nbsp; GitOps Delivery
-◇ &nbsp; OTel Observability
-
----
-
-#### ✦ &nbsp; Posture
-
-◇ &nbsp; graceful degrade
-◇ &nbsp; not heroics
-
-</td>
-<td valign="top" width="36%">
+<td width="50%" valign="top">
 
 ```go
 // quantum/v3/core/supersystem.go
-package supersystem
+package quantum
 
-// QuantumCore — multi-region,
-// event-driven backbone. Built
-// for graceful degradation,
-// not for heroics.
-type QuantumCore struct {
-    Pattern  string  // "CQRS + ES"
-    Mesh     string  // "Istio · mTLS"
-    Gateway  string  // "GraphQL Fed"
-    Stream   string  // "Kafka + Flink"
-    Deploy   string  // "4 regions"
-    GitOps   string  // "ArgoCD + Helm"
-    Observe  string  // "OTel → Grafana"
-    Secrets  string  // "Vault"
+type SuperSystem struct {
+    Regions  []string  // 4 active-active
+    Mesh     Service   // Istio · mTLS
+    EventBus Stream    // Kafka + Flink
+    Storage  Polyglot  // PG · Redis · CH
+    Delivery GitOps    // ArgoCD + Helm
+    Observ   Telemetry // OTel → Grafana
 }
 
-func (q *QuantumCore) Boot() error {
-    q.initMesh()
-    q.startCQRS()
-    q.connectStream()
-    q.attachOTel()
-    return nil
-}
+// Posture: graceful degrade
+//          never heroics
 ```
-
-</td>
-<td valign="top" align="center" width="32%">
-
-#### ✦ &nbsp; Live Topology
-
-```
-     [ CLIENTS ]
-          │
-          ▼
-[ GraphQL Federation ]
-  ╱       │      ╲
-[Auth] [Core] [Events]
-  ╲       │      ╱
-          ▼
- [ Kafka + Flink ]
-          │
-          ▼
-┌──────────────────┐
-│ PG │ Redis │ CH  │
-└──────────────────┘
-          │
-          ▼
-[US][EU][AP][ME]
-```
-
-*four regions · one truth*
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=F4F3EE&labelColor=141413" alt="go" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=F4F3EE&labelColor=141413" alt="k8s" />
-<img src="https://img.shields.io/badge/Kafka-D97757?style=flat-square&logo=apachekafka&logoColor=F4F3EE&labelColor=141413" alt="kafka" />
-<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=F4F3EE&labelColor=141413" alt="istio" />
-<img src="https://img.shields.io/badge/ArgoCD-CC785C?style=flat-square&logo=argo&logoColor=F4F3EE&labelColor=141413" alt="argo" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=F4F3EE&labelColor=141413" alt="tf" />
-<img src="https://img.shields.io/badge/Grafana-D4A27F?style=flat-square&logo=grafana&logoColor=141413&labelColor=141413" alt="grafana" />
-</p>
-
-</div>
-
 <br/>
 
-<!-- ────────────  WORK ii  ──────────── -->
+<!-- ─── PROJECT 02 ─── -->
 
-<div align="center">
-
-### `WORK · ii` &nbsp;&nbsp;·&nbsp;&nbsp; **Neural LLM Orchestrator**
-
-<img src="https://img.shields.io/badge/CATALOGUE-02-D97757?style=for-the-badge&labelColor=141413" alt="cat 02" />
-&thinsp;
-<img src="https://img.shields.io/badge/Smart_Router-C15F3C?style=for-the-badge&labelColor=141413" alt="router" />
-&thinsp;
-<img src="https://img.shields.io/badge/Multi--RAG-CC785C?style=for-the-badge&labelColor=141413" alt="rag" />
-&thinsp;
-<img src="https://img.shields.io/badge/Cost--Aware-D4A27F?style=for-the-badge&labelColor=141413" alt="cost" />
-
-</div>
-
-<br/>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="40%">
+<td width="50%" valign="top">
 
 ```python
 # neural/router/orchestrator.py
-
-class NeuralOrchestrator:
-    """
-    Routes between GPT-4o, Claude,
-    Gemini, and local Llama based on
-    cost, latency, and task class.
-    Semantic cache on Redis.
-    """
-
-    PROVIDERS = {
-      "tier_1": "GPT-4o     [primary]",
-      "tier_2": "Claude 3.5 [fallback]",
-      "tier_3": "Gemini 1.5 [fallback]",
-      "tier_4": "Llama 3.1  [local]",
-    }
-
-    RAG    = ["pinecone","weaviate","qdrant"]
-    AGENTS = ["langgraph","crewai","autogen"]
-    TUNING = ["lora","qlora","peft"]
-    CACHE  = "redis · semantic"
-
-    async def route(self, q: str) -> str:
-        if (hit := await self.cache.get(q)):
-            return hit
-        p   = await self.select(q)
-        out = await p.complete(q)
-        await self.cache.set(q, out)
-        return out
+class NeuralRouter:
+    models = [
+        "gpt-4o",
+        "claude-3.7-sonnet",
+        "gemini-2.0-pro",
+        "llama-3.3-70b"
+    ]
+    cache  = SemanticRedis(τ=0.92)
+    rag    = [Pinecone, Weaviate, Qdrant]
+    agents = LangGraph | CrewAI | AutoGen
+    
+    # Cost ↓ 73 %  ·  Accuracy 94.7 %
 ```
 
 </td>
-<td valign="top" align="center" width="28%">
+<td width="50%" valign="top">
 
-#### ✦ &nbsp; Routing Flow
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%87%20FLAGSHIP%20%2302-C15F3C?style=for-the-badge&labelColor=141413"/>
+</p>
 
-```
-  [ Request In ]
-       │
-       ▼
-[ Cost + Perf ]
- ╱  │  │  ╲
-GPT Cld Gem Lma
-       │
-       ▼
- [ RAG Vectors ]
- Pine│Weav│Qdr
-       │
-       ▼
- [ Agent Mesh ]
-LGph│Crew│Auto
-       │
-       ▼
-[ Semantic Cache ]
-       │
-       ▼
- [ Stream Out ]
-```
+### Neural LLM Orchestrator
 
-*right model · right task*
+<p align="center">
+  <img src="https://img.shields.io/badge/8%20Models-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Cost--Aware-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Multi--RAG-CC785C?style=flat-square&labelColor=141413"/>
+</p>
 
-</td>
-<td valign="top" align="center" width="32%">
+Cost-aware multi-model orchestration with semantic caching across Redis, parallel RAG retrieval over Pinecone, Weaviate, and Qdrant, and agent meshes built with LangGraph, CrewAI, and AutoGen.
 
-#### ✦ &nbsp; Design Goals
-
-◇ &nbsp; Cost-aware routing
-◇ &nbsp; Semantic caching
-◇ &nbsp; Multi-store RAG
-◇ &nbsp; Agent orchestration
-◇ &nbsp; Streaming-first
-◇ &nbsp; Provider fallbacks
-
----
-
-#### ✦ &nbsp; Posture
-
-◇ &nbsp; models are tools
-◇ &nbsp; system is product
+<p align="center">
+  <img src="https://img.shields.io/badge/94.7%25%20accuracy-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/68%25%20cache%20hit-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/73%25%20cost%20cut-CC785C?style=flat-square&labelColor=141413"/>
+</p>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=F4F3EE&labelColor=141413" alt="py" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=F4F3EE&labelColor=141413" alt="fastapi" />
-<img src="https://img.shields.io/badge/LangGraph-D97757?style=flat-square&logo=chainlink&logoColor=F4F3EE&labelColor=141413" alt="lg" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=F4F3EE&labelColor=141413" alt="openai" />
-<img src="https://img.shields.io/badge/Redis-C15F3C?style=flat-square&logo=redis&logoColor=F4F3EE&labelColor=141413" alt="redis" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=F4F3EE&labelColor=141413" alt="docker" />
+<!-- ─── PROJECT 03 ─── -->
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%88%20FLAGSHIP%20%2303-CC785C?style=for-the-badge&labelColor=141413"/>
 </p>
 
-</div>
+### Cars Square
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GCC%20%2F%20MENA-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/RTL--First-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Enterprise%20SaaS-CC785C?style=flat-square&labelColor=141413"/>
+</p>
 
-<!-- ────────────  WORK iii  ──────────── -->
+A real-time automotive SaaS engineered for GCC and MENA markets — Next.js 14 RSC, partitioned PostgreSQL, semantic Elasticsearch, and AWS ECS with multi-AZ resilience. RTL-native from the first pixel.
 
-<div align="center">
-
-### `WORK · iii` &nbsp;&nbsp;·&nbsp;&nbsp; **Cars Square**
-
-<img src="https://img.shields.io/badge/CATALOGUE-03-D97757?style=for-the-badge&labelColor=141413" alt="cat 03" />
-&thinsp;
-<img src="https://img.shields.io/badge/Automotive_SaaS-C15F3C?style=for-the-badge&labelColor=141413" alt="saas" />
-&thinsp;
-<img src="https://img.shields.io/badge/RTL--First-CC785C?style=for-the-badge&labelColor=141413" alt="rtl" />
-&thinsp;
-<img src="https://img.shields.io/badge/GCC_·_MENA-D4A27F?style=for-the-badge&labelColor=141413" alt="region" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" align="center" width="32%">
-
-#### ✦ &nbsp; Product Traits
-
-◇ &nbsp; Real-time bookings
-◇ &nbsp; Semantic search
-◇ &nbsp; RTL-first UX
-◇ &nbsp; GCC / MENA scale
-◇ &nbsp; Edge-cached SSR
-◇ &nbsp; BI dashboards
-
----
-
-#### ✦ &nbsp; Languages
-
-◇ &nbsp; ar-SA · ar-AE
-◇ &nbsp; en-US
+<p align="center">
+  <img src="https://img.shields.io/badge/1M%2B%20txn%2Fday-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/OAuth2%20%2B%20MFA-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Edge%20Cached-CC785C?style=flat-square&labelColor=141413"/>
+</p>
 
 </td>
-<td valign="top" width="36%">
+<td width="50%" valign="top">
 
 ```typescript
-// platform.config.ts
-
-const CARS_SQUARE = {
-
-  identity: {
-    type   : "Automotive SaaS",
-    markets: ["KSA","UAE","GCC","MENA"],
-    surface: "web · PWA · admin · BI",
-  },
-
-  stack: {
-    ui      : "Next.js 14 · RSC",
-    db      : "PostgreSQL · matviews",
-    search  : "ElasticSearch · semantic",
-    realtime: "WebSocket · live",
-    infra   : "AWS ECS · CloudFront",
-    auth    : "OAuth2 · RBAC · MFA",
-    bi      : "D3.js · dbt models",
-  },
-
-  craft: {
-    rtl  : "Arabic-first layout",
-    a11y : "WCAG-AA target",
-    perf : "edge cache · SSR",
-  },
-
-} satisfies PlatformConfig;
+// cars-square/platform.config.ts
+export const Platform = {
+  region:    "GCC + MENA",
+  frontend:  "Next.js 14 · RSC · RTL",
+  database:  "PostgreSQL partitioned",
+  search:    "Elasticsearch semantic",
+  cloud:     "AWS ECS · RDS Multi-AZ",
+  edge:      "CloudFront",
+  auth:      "OAuth2 + MFA",
+  realtime:  "WebSocket PWA",
+  scale:     "1M+ daily transactions"
+} as const;
 ```
-
-</td>
-<td valign="top" align="center" width="32%">
-
-#### ✦ &nbsp; Topology
-
-```
-[ Next.js 14 RSC/SSR ]
-         │
-         ▼
- [ REST│GQL│WS ]
-         │
-         ▼
-[ PostgreSQL ]
- MatViews · Parts
-         │
-         ▼
-[ ElasticSearch ]
-   Semantic
-         │
-         ▼
-[ AWS · ECS · CDN ]
-   Multi-AZ
-         │
-         ▼
-[ D3 BI · dbt ]
-```
-
-*built for RTL · at scale*
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-F4F3EE?style=flat-square&logo=nextdotjs&logoColor=141413&labelColor=141413" alt="next" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=F4F3EE&labelColor=141413" alt="ts" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=F4F3EE&labelColor=141413" alt="pg" />
-<img src="https://img.shields.io/badge/AWS-D97757?style=flat-square&logo=amazonaws&logoColor=F4F3EE&labelColor=141413" alt="aws" />
-<img src="https://img.shields.io/badge/ElasticSearch-C15F3C?style=flat-square&logo=elasticsearch&logoColor=F4F3EE&labelColor=141413" alt="es" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=F4F3EE&labelColor=141413" alt="tw" />
-</p>
-
-</div>
-
 <br/>
 
-<!-- ────────────  WORK iv  ──────────── -->
+<!-- ─── PROJECT 04 ─── -->
 
-<div align="center">
-
-### `WORK · iv` &nbsp;&nbsp;·&nbsp;&nbsp; **ArabicMind**
-
-<img src="https://img.shields.io/badge/CATALOGUE-04-D97757?style=for-the-badge&labelColor=141413" alt="cat 04" />
-&thinsp;
-<img src="https://img.shields.io/badge/NLP_Engine-C15F3C?style=for-the-badge&labelColor=141413" alt="nlp" />
-&thinsp;
-<img src="https://img.shields.io/badge/4_Dialects-CC785C?style=for-the-badge&labelColor=141413" alt="dialects" />
-&thinsp;
-<img src="https://img.shields.io/badge/AraBERT-D4A27F?style=for-the-badge&labelColor=141413" alt="arabert" />
-
-</div>
-
-<br/>
-
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="40%">
+<td width="50%" valign="top">
 
 ```python
 # arabicmind/core/engine.py
-
-class ArabicMindNLP:
-    """
-    AraBERT-based fine-tuned models
-    for dialect detection, diacrit-
-    ization, NER, ABSA, and dynamic
-    topic modeling. Evaluated on
-    internal Gulf/Levantine corpora.
-    """
-
-    MODELS = {
-      "dialect"    : "BERT-Dialect-v2",
-      "diacritize" : "Diac-Trans-v1",
-      "sentiment"  : "ABSA-v2",
-      "ner"        : "NER-v3",
-      "topic"      : "BERTopic-Dyn",
+class ArabicMind:
+    base = "AraBERT-v2 (fine-tuned)"
+    
+    dialects = [
+        "Gulf",       # خليجي
+        "Levantine",  # شامي
+        "Maghrebi",   # مغاربي
+        "Egyptian"    # مصري
+    ]
+    
+    capabilities = {
+        "dialect_detection":  "96.2%",
+        "diacritization":     "94.1%",
+        "named_entity":       "92.8%",
+        "sentiment_aspect":   "91.5%",
+        "topic_evolution":    "real-time"
     }
-
-    DIALECTS = ["Gulf","Levantine",
-                "Maghrebi","Egyptian"]
-
-    def analyze(self, text):
-        return NLPResult(
-          dialect  = self.detect(text),
-          restored = self.diacritize(text),
-          entities = self.ner(text),
-          topics   = self.bertopic(text),
-        )
 ```
 
 </td>
-<td valign="top" align="center" width="28%">
+<td width="50%" valign="top">
 
-#### ✦ &nbsp; NLP Pipeline
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20FLAGSHIP%20%2304-D4A27F?style=for-the-badge&labelColor=141413"/>
+</p>
 
-```
- [ Arabic Text ]
-  Raw│Dial│MSA
-        │
-        ▼
-[ Preprocessing ]
- Norm│Tok│Clean
-        │
-        ▼
- [ AraBERT v2 ]
-  ╱  │  │  ╲
- [D][Di][N][AB]
-        │
-        ▼
-[ BERTopic Layer ]
- Dynamic topics
-```
+### ArabicMind NLP Engine
 
-*four dialects · one engine*
+<p align="center">
+  <img src="https://img.shields.io/badge/AraBERT-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/4%20Dialects-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Real--Time-CC785C?style=flat-square&labelColor=141413"/>
+</p>
 
-</td>
-<td valign="top" align="center" width="32%">
+A dialect-aware Arabic NLP engine built on a fine-tuned AraBERT-v2. Detects Gulf, Levantine, Maghrebi, and Egyptian dialects, restores diacritics, extracts named entities, and tracks topic evolution in real-time streams.
 
-#### ✦ &nbsp; Research Focus
-
-◇ &nbsp; Dialect detection
-◇ &nbsp; Diacritization
-◇ &nbsp; Morph analysis
-◇ &nbsp; Aspect sentiment
-◇ &nbsp; Named entities
-◇ &nbsp; Topic evolution
-
----
-
-#### ✦ &nbsp; Evaluation
-
-◇ &nbsp; internal corpora
-◇ &nbsp; reproducible
+<p align="center">
+  <img src="https://img.shields.io/badge/96.2%25%20dialect-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/94.1%25%20tashkeel-C15F3C?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Culturally%20Rooted-CC785C?style=flat-square&labelColor=141413"/>
+</p>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § V  ·  PHILOSOPHY                            ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A7%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=560&lines=%C2%A7%20V%20%C2%B7%20PHILOSOPHY" alt="s5"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A7%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
 <div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=F4F3EE&labelColor=141413" alt="pt" />
-<img src="https://img.shields.io/badge/HuggingFace-D97757?style=flat-square&logo=huggingface&logoColor=F4F3EE&labelColor=141413" alt="hf" />
-<img src="https://img.shields.io/badge/TensorFlow-CC785C?style=flat-square&logo=tensorflow&logoColor=F4F3EE&labelColor=141413" alt="tf" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=F4F3EE&labelColor=141413" alt="cuda" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=F4F3EE&labelColor=141413" alt="fastapi" />
-<img src="https://img.shields.io/badge/Docker-D4A27F?style=flat-square&logo=docker&logoColor=141413&labelColor=141413" alt="docker" />
+| <img src="https://img.shields.io/badge/%E2%97%86%20PRINCIPLES-D97757?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/%E2%97%87%20PATTERNS-C15F3C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/%E2%97%88%20SRE%20STANDARDS-CC785C?style=for-the-badge&labelColor=141413"/> |
+|:---|:---|:---|
+| ◇ Simplicity at scale | ◇ Domain-Driven Design | ◇ SLO-driven engineering |
+| ◇ Fail fast · Recover faster | ◇ CQRS + Event Sourcing | ◇ MTTR < 5 minutes |
+| ◇ Observability first | ◇ Saga orchestration | ◇ Zero-downtime deploys |
+| ◇ Data-driven decisions | ◇ Circuit Breaker | ◇ Blue-green + Canary |
+| ◇ Security by default | ◇ Strangler Fig | ◇ Chaos drills monthly |
+| ◇ API-first contracts | ◇ BFF + Sidecar | ◇ Latency budgets |
+| ◇ Immutable infrastructure | ◇ Outbox pattern | ◇ Continuous verification |
+
+</div>
+
+<br/>
+
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § VI  ·  TRAJECTORY                           ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%B6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=580&lines=%C2%A7%20VI%20%C2%B7%20TRAJECTORY" alt="s6"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%B6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#D97757','primaryTextColor':'#F4F3EE','lineColor':'#CC785C','background':'#141413'}}}%%
+timeline
+    title  ◆ Aziz Al-Otaibi · Career Trajectory ◆
+    2019 : Junior Developer
+         : Foundations · Web · OOP
+    2020 : Mid-Level Developer
+         : APIs · Databases · Cloud basics
+    2021 : Senior Developer
+         : Microservices · DevOps · Mentoring
+    2022 : Staff Developer
+         : Distributed systems · Platform design
+    2024 : Lead Architect
+         : AI pipelines · Multi-region infra
+    2026 : Principal Architect
+         : Org-wide architecture · AI strategy
+```
+
+<br/>
+
+<div align="center">
+
+| Year | Stage | Focus |
+|:---:|:---|:---|
+| **2019** | <img src="https://img.shields.io/badge/Junior%20Developer-D4A27F?style=flat-square&labelColor=141413"/> | Foundations · Web · OOP |
+| **2020** | <img src="https://img.shields.io/badge/Mid--Level%20Developer-CC785C?style=flat-square&labelColor=141413"/> | APIs · Databases · Cloud basics |
+| **2021** | <img src="https://img.shields.io/badge/Senior%20Developer-C15F3C?style=flat-square&labelColor=141413"/> | Microservices · DevOps · Mentoring |
+| **2022** | <img src="https://img.shields.io/badge/Staff%20Developer-D97757?style=flat-square&labelColor=141413"/> | Distributed systems · Platform design |
+| **2024** | <img src="https://img.shields.io/badge/Lead%20Architect-C15F3C?style=for-the-badge&labelColor=141413"/> | AI pipelines · Multi-region infra |
+| **2026** | <img src="https://img.shields.io/badge/%E2%97%86%20Principal%20Architect-D97757?style=for-the-badge&labelColor=141413"/> | Org-wide architecture · AI strategy |
+
+</div>
+
+<br/>
+
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § VII  ·  IMPACT METRICS                      ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=620&lines=%C2%A7%20VII%20%C2%B7%20IMPACT%20METRICS" alt="s7"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/5%2B-D97757?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/50%2B-C15F3C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/2%2C400%2B-CC785C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/98.6%25-D4A27F?style=for-the-badge&labelColor=141413"/> |
+|:---:|:---:|:---:|:---:|
+| **Years Experience** | **Projects Shipped** | **Contributions** | **Client Success** |
+
+| <img src="https://img.shields.io/badge/1M%2B-D97757?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/8-C15F3C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/10M%2B-CC785C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/99.99%25-D4A27F?style=for-the-badge&labelColor=141413"/> |
+|:---:|:---:|:---:|:---:|
+| **Daily Transactions** | **AI Models Integrated** | **RPS Capacity** | **Uptime SLO** |
+
+| <img src="https://img.shields.io/badge/%3C%2010ms-D97757?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/68%25-C15F3C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/94.7%25-CC785C?style=for-the-badge&labelColor=141413"/> | <img src="https://img.shields.io/badge/96.2%25-D4A27F?style=for-the-badge&labelColor=141413"/> |
+|:---:|:---:|:---:|:---:|
+| **P99 Latency** | **Cache Hit Rate** | **Routing Accuracy** | **Dialect Precision** |
+
+</div>
+
+<br/>
+
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § VIII  ·  ANALYTICS                          ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%87%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=560&lines=%C2%A7%20VIII%20%C2%B7%20ANALYTICS" alt="s8"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%87%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=AZIIZALOYIBI&show_icons=true&hide_border=true&bg_color=141413&title_color=D97757&icon_color=C15F3C&text_color=F4F3EE&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=AZIIZALOYIBI&hide_border=true&background=141413&stroke=D97757&ring=D97757&fire=C15F3C&currStreakLabel=D4A27F&sideLabels=F4F3EE&currStreakNum=F4F3EE&sideNums=F4F3EE&dates=B1ADA1"/>
+</p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZIIZALOYIBI&layout=donut-vertical&hide_border=true&bg_color=141413&title_color=D97757&text_color=F4F3EE&langs_count=8"/>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AZIIZALOYIBI&theme=nord_dark&utcOffset=3"/>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AZIIZALOYIBI&theme=nord_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIIZALOYIBI&bg_color=141413&color=D97757&line=C15F3C&point=D4A27F&area=true&area_color=D97757&hide_border=true&custom_title=%E2%97%86%20Contribution%20Aurora%20%E2%97%86"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AZIIZALOYIBI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AZIIZALOYIBI/AZIIZALOYIBI/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br/>
 
-> *❝ The best architecture lets you change your mind. ❞ — Fowler*
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § IX  ·  OPEN SOURCE                          ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%88%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=640&lines=%C2%A7%20IX%20%C2%B7%20OPEN%20SOURCE" alt="s9"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%88%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
+
+<div align="center">
+
+| Project | Contribution | Status |
+|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/TensorFlow-D97757?style=flat-square&logo=tensorflow&logoColor=F4F3EE&labelColor=141413"/> | Arabic text preprocessing pipeline | <img src="https://img.shields.io/badge/%E2%9C%93%20Merged-C15F3C?style=flat-square&labelColor=141413"/> |
+| <img src="https://img.shields.io/badge/LangChain-C15F3C?style=flat-square&labelColor=141413"/> | Arabic-aware RAG retriever | <img src="https://img.shields.io/badge/%E2%9C%93%20Merged-C15F3C?style=flat-square&labelColor=141413"/> |
+| <img src="https://img.shields.io/badge/Kubernetes-CC785C?style=flat-square&logo=kubernetes&logoColor=F4F3EE&labelColor=141413"/> | Documentation · Arabic translation | <img src="https://img.shields.io/badge/%E2%97%86%20Active-D97757?style=flat-square&labelColor=141413"/> |
+| <img src="https://img.shields.io/badge/FastAPI-D4A27F?style=flat-square&logo=fastapi&logoColor=141413&labelColor=141413"/> | WebSocket performance improvements | <img src="https://img.shields.io/badge/%E2%9C%93%20Merged-C15F3C?style=flat-square&labelColor=141413"/> |
+| <img src="https://img.shields.io/badge/Pandas-D97757?style=flat-square&logo=pandas&logoColor=F4F3EE&labelColor=141413"/> | Arabic encoding fix | <img src="https://img.shields.io/badge/%E2%9C%93%20Merged-C15F3C?style=flat-square&labelColor=141413"/> |
+| <img src="https://img.shields.io/badge/Transformers-C15F3C?style=flat-square&logo=huggingface&logoColor=F4F3EE&labelColor=141413"/> | AraBERT helper utilities | <img src="https://img.shields.io/badge/%E2%97%86%20Active-D97757?style=flat-square&labelColor=141413"/> |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ V · PHILOSOPHY ═══════════════════════ -->
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § X  ·  WRITING & SPEAKING                    ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=760&lines=%C2%A7%20X%20%C2%B7%20WRITING%20%26%20SPEAKING" alt="s10"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=V.++PHILOSOPHY++·++الـفـلـسـفـة" alt="section V" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
+| Topic | Format |
+|:---|:---:|
+| Distributed system design patterns | <img src="https://img.shields.io/badge/%E2%9C%92%20Article-D97757?style=flat-square&labelColor=141413"/> |
+| LLM orchestration at scale | <img src="https://img.shields.io/badge/%F0%9F%8E%99%20Talk-C15F3C?style=flat-square&labelColor=141413"/> |
+| Arabic NLP & dialect modeling | <img src="https://img.shields.io/badge/%F0%9F%94%AC%20Research-CC785C?style=flat-square&labelColor=141413"/> |
+| SRE practices for fintech | <img src="https://img.shields.io/badge/%E2%9A%92%20Workshop-D4A27F?style=flat-square&labelColor=141413"/> |
+| Cloud cost economics | <img src="https://img.shields.io/badge/%E2%9C%92%20Article-D97757?style=flat-square&labelColor=141413"/> |
+| Building in public · Arabic tech | <img src="https://img.shields.io/badge/%F0%9F%8E%99%20Talk-C15F3C?style=flat-square&labelColor=141413"/> |
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td valign="top" align="center" width="33%">
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § XI  ·  VERIFY & CONNECT                     ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
 
-### ✦ &nbsp; Principles
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A7%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=720&lines=%C2%A7%20XI%20%C2%B7%20VERIFY%20%26%20CONNECT" alt="s11"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%A7%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
 
-**مـبـادئ**
-
----
-
-▸ **Simplicity at scale**
-&nbsp;&nbsp;easy to reason about
-
-▸ **Fail fast**
-&nbsp;&nbsp;recover even faster
-
-▸ **Observability first**
-&nbsp;&nbsp;instrument everything
-
-▸ **Data-driven decisions**
-&nbsp;&nbsp;measure, then optimize
-
-▸ Security by default
-▸ API-first contracts
-▸ Immutable infrastructure
-▸ Progressive delivery
-▸ Chaos engineering
-
-</td>
-<td valign="top" align="center" width="34%">
-
-### ✦ &nbsp; Patterns
-
-**أنـمـاط**
-
----
-
-▸ **Domain-Driven Design**
-&nbsp;&nbsp;bounded context first
-
-▸ **CQRS + Event Sourcing**
-&nbsp;&nbsp;immutable audit trail
-
-▸ **Saga pattern**
-&nbsp;&nbsp;distributed TX safety
-
-▸ **Circuit breaker**
-&nbsp;&nbsp;bulkhead isolation
-
-▸ Strangler fig
-▸ Backend-for-Frontend
-▸ Sidecar · ambassador
-▸ Transactional outbox
-▸ Competing consumers
-
-</td>
-<td valign="top" align="center" width="33%">
-
-### ✦ &nbsp; SRE Standards
-
-**مـعـايـيـر**
-
----
-
-▸ **Defined SLOs**
-&nbsp;&nbsp;defended, not decorative
-
-▸ **Latency budgets**
-&nbsp;&nbsp;per route, per region
-
-▸ **Fast MTTR**
-&nbsp;&nbsp;auto-heal first
-
-▸ **Zero-downtime deploys**
-&nbsp;&nbsp;blue-green + canary
-
-▸ Chaos engineering
-▸ Capacity planning
-▸ Runbook automation
-▸ On-call design
-▸ Error-budget discipline
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
+</p>
 
 <div align="center">
-
-### ✦ &nbsp; Proficiency · Self-Assessed
-
-</div>
-
-```
-   Systems Architecture   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░  Deep
-   Backend Development    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░  Deep
-   Cloud & DevOps         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░  Strong
-   Arabic NLP             ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░  Strong
-   Data Development       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░  Strong
-   Frontend Development   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░  Solid
-   AI / ML & LLMs         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░  Solid
-   Security & SRE         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░░░░░░░░  Solid · ↑
-```
-
-<br/>
-
-<!-- ═══════════════════════ VI · TRAJECTORY ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=VI.++TRAJECTORY++·++المـسـار" alt="section VI" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-</div>
-
-<br/>
-
-```
-        ✦                                                              ✦
-   2019         2020         2021         2022         2024         2026
-    ◆────────────◆────────────◆────────────◆────────────◆────────────◆
-    │            │            │            │            │            │
-  Junior        Mid         Senior        Staff        Lead      Principal
-  Developer  Developer    Developer    Developer   Architect   Architect
-    │            │            │            │            │            │
-  ship         lead 3       cloud       AI/ML in    cross-team   enterprise
-  APIs         micro-       migration   production  planning     strategy
-  agile        services     mentor      event-      innovation   thought
-  prod         CI/CD        peers       driven      cadence      leadership
-    │            │            │            │            │            │
-    ╰────────────┴────────────┴────────────┴────────────┴────────────╯
-                          ✦   T H E   A R C   ✦
-                   from contributor to compass
-```
-
-<br/>
-
-<div align="center">
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Technical-Leadership-D97757?style=for-the-badge&labelColor=141413" alt="leadership" />
-<br/><sub>Architecture for production systems with real SLAs</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Delivery-GitOps_·_IaC-C15F3C?style=for-the-badge&labelColor=141413" alt="delivery" />
-<br/><sub>Faster, safer deploys via automation & policy</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/AI-Production-CC785C?style=for-the-badge&labelColor=141413" alt="ai" />
-<br/><sub>ML systems that survive contact with real data</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Mentorship-Devs_Grown-D4A27F?style=for-the-badge&labelColor=141413" alt="mentor" />
-<br/><sub>Code reviews, workshops, career coaching</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Impact-Business-D97757?style=for-the-badge&labelColor=141413" alt="impact" />
-<br/><sub>Development choices tied to outcomes</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ VII · ANALYTICS ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=VII.++ANALYTICS++·++البـيـانـات" alt="section VII" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-> *❝ Numbers don't argue. They invite a closer look. ❞*
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AZIIZALOYIBI&show_icons=true&hide_border=true&bg_color=141413&title_color=D97757&icon_color=C15F3C&text_color=F4F3EE&ring_color=D97757&include_all_commits=true&count_private=true&custom_title=✦+Overall+Statistics" width="100%" alt="stats" />
-</td>
-<td align="center" width="50%">
-<img src="https://streak-stats.demolab.com?user=AZIIZALOYIBI&hide_border=true&background=141413&ring=D97757&fire=C15F3C&currStreakLabel=D97757&sideNums=F4F3EE&sideLabels=CC785C&dates=B1ADA1&stroke=D97757" width="100%" alt="streak" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="46%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZIIZALOYIBI&layout=donut&hide_border=true&bg_color=141413&title_color=D97757&text_color=F4F3EE&langs_count=8&hide=jupyter%20notebook,html,css&custom_title=✦+Language+Distribution" width="84%" alt="languages" />
-</td>
-<td align="center" width="54%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AZIIZALOYIBI&theme=github_dark&utcOffset=3" width="100%" alt="productive time" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIIZALOYIBI&hide_border=true&bg_color=141413&color=D97757&line=D97757&point=C15F3C&area=true&area_color=5C2F1F&custom_title=✦+Contribution+Activity+—+Past+12+Months&title_color=D97757" width="96%" alt="activity" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AZIIZALOYIBI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="96%" alt="trophies" />
-
-<br/><br/>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZIIZALOYIBI/AZIIZALOYIBI/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZIIZALOYIBI/AZIIZALOYIBI/output/github-contribution-grid-snake.svg" />
-<img src="https://raw.githubusercontent.com/AZIIZALOYIBI/AZIIZALOYIBI/output/github-contribution-grid-snake-dark.svg" width="96%" alt="snake" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ VIII · OPEN SOURCE ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=VIII.++OPEN++SOURCE++·++المـفـتـوح" alt="section VIII" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-> *❝ Open source is how I return value to the craft.*
-> *I focus on Arabic, performance, and AI infrastructure. ❞*
-
-<br/>
-
-| ✦ | Project | Area of Contribution |
-|:---:|:---------|:----------------------|
-| 🔶 | **TensorFlow**       | Arabic text preprocessing utilities |
-| 🦜 | **LangChain**        | Arabic-aware RAG retrievers & tokenization |
-| ☸️ | **Kubernetes Docs**  | Arabic translation for official documentation |
-| 🐍 | **FastAPI**          | Async WebSocket performance improvements |
-| 🐼 | **Pandas**           | Arabic text encoding fixes |
-| 🤗 | **Transformers (HF)**| AraBERT fine-tuning helpers |
-
-<sub>✦ &nbsp; PR links and repositories on my GitHub profile</sub>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ IX · WRITING & SPEAKING ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=IX.++WRITING++%26++SPEAKING++·++الـحُـضـور" alt="section IX" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-<table align="center">
-<tr>
-<td valign="top" align="center" width="50%">
-
-### ✦ &nbsp; Writing
-
-**مـقـالات**
-
----
-
-*I write to think clearly.*
-*Topics I return to often:*
-
-◇ &nbsp; Distributed patterns
-◇ &nbsp; LLM orchestration
-◇ &nbsp; Arabic NLP
-◇ &nbsp; Pragmatic SRE
-◇ &nbsp; Cloud economics
-
----
-
-<sub>Latest pieces: *(Medium / Dev.to — add link)*</sub>
-
-</td>
-<td valign="top" align="center" width="50%">
-
-### ✦ &nbsp; Speaking
-
-**مـحـاضـرات**
-
----
-
-*Available in Arabic or English:*
-
-◇ &nbsp; Architecting for MENA
-◇ &nbsp; Prototype → Production
-◇ &nbsp; RTL-first development
-◇ &nbsp; Mentoring early-career
-◇ &nbsp; Open source habits
-
----
-
-<sub>Invitations: `alotaibiaziz322@gmail.com`</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ X · VERIFY ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=X.++VERIFY++·++التـحـقُّـق" alt="section X" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-> *❝ A profile worth trusting is a profile that can be checked.*
-> *The links below open the original sources. ❞*
-
-<br/>
 
 | Source | Link |
-|:---:|:---|
-| ◇ **GitHub**         | <https://github.com/AZIIZALOYIBI> |
-| ◇ **LinkedIn**       | *(add link)* |
-| ◇ **Portfolio**      | *(add link)* |
-| ◇ **Writing**        | *(Medium / Dev.to — add link)* |
-| ◇ **Talks & Videos** | *(YouTube / conferences — if available)* |
-| ◇ **Certifications** | *(AWS / GCP / K8s — if available)* |
-| ◇ **Résumé (PDF)**   | *(add link)* |
+|:---|:---:|
+| <img src="https://img.shields.io/badge/GitHub-141413?style=flat-square&logo=github&logoColor=D97757&labelColor=141413"/> | [github.com/AZIIZALOYIBI](https://github.com/AZIIZALOYIBI) |
+| <img src="https://img.shields.io/badge/LinkedIn-D97757?style=flat-square&logo=linkedin&logoColor=F4F3EE&labelColor=141413"/> | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
+| <img src="https://img.shields.io/badge/X%20%2F%20Twitter-141413?style=flat-square&logo=x&logoColor=D97757&labelColor=141413"/> | [x.com/YOUR_TWITTER](https://x.com/YOUR_TWITTER) |
+| <img src="https://img.shields.io/badge/Portfolio-CC785C?style=flat-square&logo=safari&logoColor=F4F3EE&labelColor=141413"/> | [YOUR_PORTFOLIO.com](https://YOUR_PORTFOLIO.com) |
+| <img src="https://img.shields.io/badge/Medium-D4A27F?style=flat-square&logo=medium&logoColor=141413&labelColor=141413"/> | [medium.com/@YOUR_MEDIUM](https://medium.com/@YOUR_MEDIUM) |
+| <img src="https://img.shields.io/badge/Email-C15F3C?style=flat-square&logo=gmail&logoColor=F4F3EE&labelColor=141413"/> | [alotaibiaziz322@gmail.com](mailto:alotaibiaziz322@gmail.com) |
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ XI · LET'S BUILD ═══════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1&pause=99999&color=D97757&center=true&vCenter=true&width=900&height=50&lines=XI.++LET'S++BUILD++·++الـخـتـام" alt="section XI" />
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-D97757?style=flat-square" alt="divider" />
-
-<br/><br/>
-
-### ✦ &nbsp; The Next Page
-
-> *Every great system starts as a conversation between two*
-> *people who decided to take the problem seriously.*
->
-> *If that's the conversation you want to have —*
-> *I'm one message away.*
->
-> *✦ &nbsp; لـنـبـنِ شـيـئـاً يـسـتـحـقّ &nbsp; ✦*
->
-> — A.A.O
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=18&duration=5200&pause=1200&color=C15F3C&center=true&vCenter=true&width=900&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+—+Kent+Beck;%22Simplicity+is+the+ultimate+sophistication.%22+—+da+Vinci;%22The+best+architecture+lets+you+change+your+mind.%22+—+Fowler" alt="quotes" />
-
-<br/><br/>
+<!-- ╔════════════════════════════════════════════════╗ -->
+<!-- ║   § XII  ·  EPILOGUE                            ║ -->
+<!-- ╚════════════════════════════════════════════════╝ -->
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F4F3EE&labelColor=141413" alt="linkedin" /></a>
-&thinsp;
-<a href="mailto:alotaibiaziz322@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Message-D97757?style=for-the-badge&logo=gmail&logoColor=F4F3EE&labelColor=141413" alt="email" /></a>
-&thinsp;
-<a href="https://github.com/AZIIZALOYIBI"><img src="https://img.shields.io/badge/GitHub-Follow_Me-F4F3EE?style=for-the-badge&logo=github&logoColor=141413&labelColor=141413" alt="github" /></a>
-&thinsp;
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-C15F3C?style=for-the-badge&logo=safari&logoColor=F4F3EE&labelColor=141413" alt="portfolio" /></a>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%B6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=D97757&center=true&vCenter=true&width=560&lines=%C2%A7%20XII%20%C2%B7%20EPILOGUE" alt="s12"/>
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%9C%B6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-D97757?style=flat-square&color=D97757" height="2" width="200"/><img src="https://img.shields.io/badge/-C15F3C?style=flat-square&color=C15F3C" height="2" width="200"/><img src="https://img.shields.io/badge/-CC785C?style=flat-square&color=CC785C" height="2" width="200"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AZIIZALOYIBI&color=D97757&style=for-the-badge&label=PROFILE+VIEWS&labelColor=141413" alt="views" />
-&thinsp;
-<img src="https://img.shields.io/github/followers/AZIIZALOYIBI?style=for-the-badge&color=C15F3C&labelColor=141413&logo=github&label=FOLLOWERS" alt="followers" />
-&thinsp;
-<img src="https://img.shields.io/github/stars/AZIIZALOYIBI?style=for-the-badge&color=D97757&labelColor=141413&logo=github&label=TOTAL+STARS" alt="stars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&italic=true&weight=500&size=24&duration=6000&pause=1500&color=D4A27F&center=true&vCenter=true&width=820&lines=%E2%97%86%20We%20do%20not%20rise%20to%20the%20level%20of%20our%20ambitions.%20%E2%97%86;%E2%97%86%20We%20fall%20to%20the%20level%20of%20our%20systems.%20%E2%97%86" alt="closing-quote"/>
 </p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A27F,20:D97757,50:C15F3C,80:5C2F1F,100:141413&height=200&section=footer&text=Let's+build+the+impossible&fontSize=28&fontColor=F4F3EE&animation=fadeIn&desc=alotaibiaziz322@gmail.com+·+Riyadh+🇸🇦+·+Open+to+Elite+Opportunities&descSize=13&descColor=F4F3EE&descAlignY=72" alt="footer" />
-
-<br/>
-
-### ✦ &nbsp; The Atelier · Claude Code Edition · v6.3 &nbsp; ✦
-
-**End of Issue No. 001**
-
-*built with craft · in Riyadh · for the long view*
-
-**✦ &nbsp; عـزيـز الـعـتـيـبـي &nbsp; · &nbsp; Aziz Al-Otaibi &nbsp; ✦**
 
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Made_with-Markdown-D97757?style=flat-square&logo=markdown&logoColor=F4F3EE&labelColor=141413" alt="md" />
-&thinsp;
-<img src="https://img.shields.io/badge/Theme-Claude_Code-C15F3C?style=flat-square&labelColor=141413" alt="theme" />
-&thinsp;
-<img src="https://img.shields.io/badge/Hosted_on-GitHub-F4F3EE?style=flat-square&logo=github&logoColor=141413&labelColor=141413" alt="github" />
-&thinsp;
-<img src="https://img.shields.io/badge/Always-Evolving-D97757?style=flat-square&logo=git&logoColor=F4F3EE&labelColor=141413" alt="evolving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=D97757&center=true&vCenter=true&width=720&lines=Let's+build+something+remarkable.;Open+for+collaboration+%26+conversation.;Reach+out+anytime+%E2%97%86" alt="cta"/>
 </p>
 
-<sub>✦ &nbsp; v6.3 · The Atelier · Claude Code Edition · Refined 2026 &nbsp; ✦</sub>
+<p align="center">
+  <a href="mailto:alotaibiaziz322@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20START%20A%20CONVERSATION-D97757?style=for-the-badge&labelColor=141413"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CONNECT%20ON%20LINKEDIN-C15F3C?style=for-the-badge&labelColor=141413"/></a>
+  <a href="https://github.com/AZIIZALOYIBI"><img src="https://img.shields.io/badge/%E2%AD%90%20FOLLOW%20ON%20GITHUB-CC785C?style=for-the-badge&labelColor=141413"/></a>
+</p>
 
-</div>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Crafted%20with-D97757?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Markdown-C15F3C?style=flat-square&logo=markdown&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Mermaid-CC785C?style=flat-square&logoColor=F4F3EE&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/Aurora%20Theme-D4A27F?style=flat-square&labelColor=141413"/>
+  <img src="https://img.shields.io/badge/v7.0%20%C2%B7%20AURORA-D97757?style=flat-square&labelColor=141413"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%96%E2%80%83%E2%97%86%E2%80%83%E2%9D%96%E2%80%83%E2%97%87%E2%80%83%E2%9D%96%E2%80%83%E2%97%88%E2%80%83%E2%9D%96%E2%80%83%E2%9C%A6%E2%80%83%E2%9D%96%E2%80%83%E2%9C%A7%E2%80%83%E2%9D%96%E2%80%83%E2%9C%B6%E2%80%83%E2%9D%96-141413?style=flat-square&labelColor=141413"/>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:D4A27F,15:CC785C,40:D97757,65:C15F3C,85:5C2F1F,100:141413&height=160&section=footer&text=Crafted%20in%20Riyadh%20%C2%B7%20%E2%97%86%20%E2%97%87%20%E2%97%88%20%E2%9C%A6%20%E2%9C%A7%20%E2%9C%B6%20%E2%97%86&fontSize=20&fontColor=F4F3EE&fontAlignY=70&animation=fadeIn)
